@@ -1,0 +1,5 @@
+FPGA tutorials given by Elham E Khoda
+
+- We learn how to write simple NN codes and transform it into verilog/VHDL language that can be run on FPGAs
+- Used hlsml high level wrapper to transform python/c++ codes to verilog/VHDL
+
