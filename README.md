@@ -16,6 +16,8 @@ ICTS, Bangalore
 ## Lectures
 Gdrive Folder: [Restricted Access](https://drive.google.com/drive/folders/18N1X9CgF0x2XooeDh7Z6Sb4TxGDlXaAH?usp=drive_link)
 
+Youtube Playlist: [ML4HEP@ICTS youtube playlist](https://www.youtube.com/playlist?list=PL04QVxpjcnjjKDki5FHlKQ8839TGHvj8y)
+
 This folder contains the following lectures:
 - Lectures/Aishik-Elham:
   1. ICTS_SBI2_03Sept2023.pdf
